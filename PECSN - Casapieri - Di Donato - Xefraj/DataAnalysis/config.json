@@ -1,0 +1,17 @@
+{
+    "numb_of_tills": "12",
+    "initialInterArrivalRate" : ["1#2f15","1#2f17","1#2f19","1#2f21","1#2f23", "1#2f25"],
+    "checkoutRate" : ["25", "26", "27", "28", "29", "30"],
+    "wrappingRate" : ["35", "36", "37", "38", "39", "40"],
+    "wrappingProbability" : ["0.6", "0.65", "0.70", "0.75", "0.8"],
+
+    "paths_conf1": [
+      "F:/Omnet/Conf1-12_uniform"
+    ],
+
+  "paths_conf2" : [
+      "F:/Omnet/Conf2-12_uniform"
+  ],
+
+  "distribution": "0"
+}
